@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    background-color: black;
+}
+
+.logo{
+    height: 80px;
+}
+
+main{
+    display:flex;
+    flex-direction: column;
+    padding-top: 40px;
+    align-items: center;
+    gap: 20px;
+}
+
+.titulo{
+    font-family: fantasy;
+
+}
